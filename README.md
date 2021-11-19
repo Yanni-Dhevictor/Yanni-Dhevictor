@@ -1,15 +1,11 @@
 ### Olá! Eu sou Yanni Dhevictor 👋
 
- 
-### Sobre mim
- 
-  - Atualmente trabalho como analista de suporte técnico
+  - Atualmente presto serviços como Analista de Suporte Técnico
   - Estudando sobre Ciência de dados e GEOAI
   - Meu objetivo é migrar para área de dados (Ciência de dados / Análise de dados)
   - 📫 Contate-me no email: dhevictor@gmail.com
   
-   
-##
+
 <div align="center">
   <a href="https://github.com/Yanni-Dhevictor">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yanni-Dhevictor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
