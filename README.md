@@ -3,14 +3,11 @@
   - :briefcase: Atualmente presto serviços como Analista de Suporte Técnico
   - :computer: Estudando sobre Ciência de dados e GEOAI
   - :nerd_face: Meu objetivo é migrar para área de dados (Ciência de dados / Análise de dados)
-   
 
-<div align="left">
-  <a href="https://github.com/Yanni-Dhevictor">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yanni-Dhevictor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 
-    
-</div>
+##Sobre mim
+
+  Iniciei meus estudos sobre a área de dados em 2020 e desde então venho gostando cada vez mais do que encontrei, busco aplicar os meus conhecimentos e projetos práticos e escrevo sobre coisas que acho importantes de serem faladas.
+   
   
 ##
 
@@ -21,20 +18,12 @@
 
 ##
   
-## Linguagem e ferramentas
+## Linguagem e Ferramentas
+
+  <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a></p>
   
-  
- <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a></p>
-  
 
-
-
- ## IDE's
- ![image](https://user-images.githubusercontent.com/55159834/142631612-fffe3ed9-99c1-4620-894c-01a4069b4a64.png)
- ![image](https://user-images.githubusercontent.com/55159834/142631630-1f7bb0f1-5edf-4f97-8ddb-76a02b356792.png)
- ![image](https://user-images.githubusercontent.com/55159834/142631651-2665efd7-99b1-45d7-9fed-2761a3eed8b9.png)
-
- ### Skills
+ ## Skills
  ![image](https://user-images.githubusercontent.com/55159834/142624538-652e3674-dd35-4351-ac6b-800224a7f59a.png)
  ![image](https://user-images.githubusercontent.com/55159834/142624725-3d3f827c-b718-4906-957e-e66b34783ed9.png)
  ![image](https://user-images.githubusercontent.com/55159834/142624750-acb12f5c-262c-43b4-9e41-68805b74edb0.png)
@@ -43,3 +32,10 @@
  ![image](https://user-images.githubusercontent.com/55159834/142625214-bbb4b39a-a19d-4a4d-b70b-32c9dd84d8a5.png)
  ![image](https://user-images.githubusercontent.com/55159834/142625237-7abb6727-3780-4e3d-baaa-a7b306c8e6d4.png)
  ![image](https://user-images.githubusercontent.com/55159834/142631720-5864c2bf-7423-437e-aa80-7170be4d92b7.png)
+  
+ <div align="left">
+  <a href="https://github.com/Yanni-Dhevictor">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yanni-Dhevictor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanni-Dhevictor&layout=compact&langs_count=7&theme=dark"/> 
+    
+</div>
